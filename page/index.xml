@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 宁健的博客</title>
+        <link>http://localhost:10843/Blog/page/</link>
+        <description>Recent content in Pages on 宁健的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:10843/Blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>画册</title>
+        <link>http://localhost:10843/Blog/album/</link>
+        <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:10843/Blog/album/</guid>
+        <description>&lt;h2 id=&#34;画册&#34;&gt;画册
+&lt;/h2&gt;&lt;p&gt;这里是画册&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>http://localhost:10843/Blog/archives/</link>
+        <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:10843/Blog/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>http://localhost:10843/Blog/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:10843/Blog/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>朋友</title>
+        <link>http://localhost:10843/Blog/friends/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:10843/Blog/friends/</guid>
+        <description>&lt;h2 id=&#34;朋友页面&#34;&gt;朋友页面
+&lt;/h2&gt;&lt;p&gt;这里展示的是我的好朋友们！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>http://localhost:10843/Blog/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:10843/Blog/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
