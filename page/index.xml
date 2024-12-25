@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 宁健的博客</title>
-        <link>http://localhost:14489/Blog/page/</link>
+        <link>https://ynj23.github.io/Blog/page/</link>
         <description>Recent content in Pages on 宁健的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:14489/Blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ynj23.github.io/Blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>画册</title>
-        <link>http://localhost:14489/Blog/album/</link>
+        <link>https://ynj23.github.io/Blog/album/</link>
         <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:14489/Blog/album/</guid>
+        <guid>https://ynj23.github.io/Blog/album/</guid>
         <description>&lt;h2 id=&#34;画册&#34;&gt;画册
 &lt;/h2&gt;&lt;p&gt;这里是画册&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>归档</title>
-        <link>http://localhost:14489/Blog/archives/</link>
+        <link>https://ynj23.github.io/Blog/archives/</link>
         <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:14489/Blog/archives/</guid>
+        <guid>https://ynj23.github.io/Blog/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>http://localhost:14489/Blog/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://ynj23.github.io/Blog/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:14489/Blog/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://ynj23.github.io/Blog/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>朋友</title>
-        <link>http://localhost:14489/Blog/friends/</link>
+        <link>https://ynj23.github.io/Blog/friends/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:14489/Blog/friends/</guid>
+        <guid>https://ynj23.github.io/Blog/friends/</guid>
         <description>&lt;h2 id=&#34;朋友页面&#34;&gt;朋友页面
 &lt;/h2&gt;&lt;p&gt;这里展示的是我的好朋友们！&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:14489/Blog/search/</link>
+        <link>https://ynj23.github.io/Blog/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:14489/Blog/search/</guid>
+        <guid>https://ynj23.github.io/Blog/search/</guid>
         <description></description>
         </item>
         
